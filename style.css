@@ -662,7 +662,7 @@ body{
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: url('mypic.jpeg');
+    background-image: url('dri.png');
     background-size: cover;
     transition: 0.3s ease-in;
   }
@@ -676,12 +676,16 @@ body{
       #1fa2ff
     ); /* Chrome 10-25, Safari 5.1-6 */
     
-    background-image: url('lambo.jfif');
+    background-image: url('dri.png');
     background-size: cover;/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
   
   .services2__card:nth-child(3) {
+<<<<<<< HEAD
     background-image: url('posh.jpg');
+=======
+    background-image: url('aloy.gif');
+>>>>>>> f6bddd5888259aec16dd96a3bee385b4954e5c0c
     background-size: cover;
   }
   .services2__card:nth-child(4) {
