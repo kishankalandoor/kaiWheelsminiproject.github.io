@@ -511,7 +511,7 @@
     flex-direction: column;
     justify-content: center;
     color: #00e5ff;
-    background-image: url('wheel.gif');
+    background-image: url('aloy.gif');
     background-size: cover;
     transition: 0.3s ease-in;
   }
@@ -681,7 +681,7 @@ body{
   }
   
   .services2__card:nth-child(3) {
-    background-image: url('benz.gif');
+    background-image: url('aloy.gif');
     background-size: cover;
   }
   .services2__card:nth-child(4) {
