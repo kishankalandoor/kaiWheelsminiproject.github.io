@@ -511,7 +511,7 @@
     flex-direction: column;
     justify-content: center;
     color: #00e5ff;
-    background-image: url('wheel.gif');
+    background-image: url('aloy.gif');
     background-size: cover;
     transition: 0.3s ease-in;
   }
@@ -530,7 +530,7 @@
     background-size: cover;/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
   .services__card:nth-child(3) {
-    background-image: url('alignment.png');
+    background-image: url('alignmm.png');
     background-size: cover;
     
   }
@@ -681,11 +681,11 @@ body{
   }
   
   .services2__card:nth-child(3) {
-    background-image: url('benz.gif');
+    background-image: url('posh.jpg');
     background-size: cover;
   }
   .services2__card:nth-child(4) {
-    background-image: url('dri.png');
+    background-image: url('volk.jpg');
     background-size: cover;
   }
   
