@@ -530,7 +530,7 @@
     background-size: cover;/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
   .services__card:nth-child(3) {
-    background-image: url('alignmm.png');
+    background-image: url('alignment.png');
     background-size: cover;
     
   }
